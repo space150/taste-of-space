@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  prep_time_minutes: 1.5
+  yield: MyString
+  cook_time_minutes: 1.5
+  summary: MyText
+  users_id: 
+
+two:
+  name: MyString
+  prep_time_minutes: 1.5
+  yield: MyString
+  cook_time_minutes: 1.5
+  summary: MyText
+  users_id: 
